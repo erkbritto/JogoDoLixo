@@ -1,0 +1,22 @@
+O JOGO:
+
+O jogo tem como foco o personagem andar para os lados e coletar 
+itens sustentaveis e não sustentaveis que cairem do ceu.
+ Ele deverá coletar itens sustentáveis e não sustentáveis
+ como veneno ou água.
+ A cada item sustentável que o jogador obtiver,
+ ele irá ganhar pontos, e a cada item não sustentável,
+ ele irá perder pontos.
+
+Objetivo:
+
+ Alcançar a maior pontuação possível de itens sustentáveis coletados.
+ A corrida não tem fim, é infinita, e a pontuação não tem um limite.
+
+Mecânicas:
+
+ Mover o personagem para a esquerda.
+ Mover o personagem para a direita.
+ Pular e cair(sistema de gravidade habilitado).
+ Coletar recursos na tela.
+ Acumular pontos
